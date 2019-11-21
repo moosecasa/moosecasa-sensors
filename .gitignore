@@ -41,7 +41,13 @@
 *.su
 *.idb
 *.pdb
+Debug/
 
+#Release files
+Release/
+
+#VisualStudio files
+.vs/
 # Kernel Module Compile Results
 *.mod*
 *.cmd
